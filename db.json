@@ -1,1 +1,4 @@
-{"coord":{"lon":104.2964,"lat":52.2978},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"base":"stations","main":{"temp":289.58,"feels_like":289.03,"temp_min":289.58,"temp_max":289.58,"pressure":1018,"humidity":67},"visibility":10000,"wind":{"speed":7,"deg":310},"rain":{"1h":0.16},"clouds":{"all":75},"dt":1629802766,"sys":{"type":1,"id":8891,"country":"RU","sunrise":1629756042,"sunset":1629807011},"timezone":28800,"id":2023469,"name":"Irkutsk","cod":200}
+{
+  "id": 0,
+  "title": "Hello World"
+}
